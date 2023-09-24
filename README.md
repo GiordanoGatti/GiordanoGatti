@@ -8,10 +8,10 @@ Hello there!👋
 I'm an engineer studying the broad field of acoustics. Signal processing and embedded systems applied to acoustics is what drove me where I am today. Feel free to send me a message in linkedin.
 <p align="left">
 
- <img src="https://komarev.com/ghpvc/?username=GiordanoGatti&color=green&style=plastic" alt="GiordanoGatti" />
+ <img src="https://komarev.com/ghpvc/?username=GiordanoGatti&color=blue&style=plastic" alt="GiordanoGatti" />
  
  <a href="www.linkedin.com/in/giordano-gatti">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=plastic&color=green" alt="LinkedIn Connect" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=plastic&color=blue" alt="LinkedIn Connect" />
 </a>
 </p>
 
