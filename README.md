@@ -5,7 +5,7 @@
 # Giordano Gatti
 Hello there!👋 
 
-I'm an engineer studying the broad field of acoustics. Signal processing and embedded systems applied to acoustics is what drove me where I am today. Feel free to send me a message in linkedin.
+I'm an electrical engineer studying the broad field of acoustics. Signal processing and embedded systems applied to acoustics is what drove me where I am today. Feel free to send me a message in linkedin.
 <p align="left">
 
  <img src="https://komarev.com/ghpvc/?username=GiordanoGatti&color=blue&style=plastic" alt="GiordanoGatti" />
